@@ -6,6 +6,9 @@ Javascript is not likely anyone's first recommendation. It's an incredibly frust
 
 Personally, the beauty of javascript comes from its general lack of respect for a perscriptive way of doing things. The modern frameworks have well designed documentation and a very prolific tutorial community. Javascript's downfalls are mitigated by it's accessibility to end users. With some node module magic and and choice coding decisions, you can build accessible solutions at an incredible pace.
 
+## how to use this guide
+
+This guide is loosly structured by difficulty and then by topic. I'm no expert in javascript, so like any good yoga instructor would say, these are merely suggestions, never instructions... These are major resources and topics I felt in retrospect would be the most important things to go after if I were starting over. Think of this as a bookmarking page with descriptions
 
 ## where to start?
 
@@ -31,26 +34,41 @@ NOTE: APPS SCRIPTS IS USING ES2013 (more on this later)
 
 ## where to continue?
 
-### Git and Github
+### Tools and Frameworks
+
+#### Git and Github
 [guides and docs](https://guides.github.com/)
 git is essential to learn. learn it, practice it, use it, be happy.
 
-### Node, NPM, Yarn
+#### Node, NPM, Yarn
 [Node](https://nodejs.org/en/)
-[NPM](https://www.npmjs.com/)
+
+Node is instrumental in broading javascript's scope from manipulating the DOM into a dizzying array of applicable use cases. Working with node is a different (and arguably more fun). If you see a `package.json` then you know to 
+
+[NPM](https://www.npmjs.com/) install - or -
+
+Node Package Manager gives you a dizzying number of other people's awesome modules to play with. You'll be importing fun stuff in no time.
+
 [Yarn](https://yarnpkg.com/en/)
 
-### Eslint
+Yarn is the result of a collaboration between some big tech companies as an alternative to NPM. It's got cool watercolor branding.
 
-### underscore/lodash/ramda
+#### Eslint
+[guide and docs](https://eslint.org/docs/user-guide/getting-started)
 
-### D3
+Eslint will be your pal. After being used to it's help, going without it feels cumbersome and lonely. (like Google Apps Scripts in the webIDE). I personally like the `airbnb` config. Following someone else's eslint config was really helpful through my learning, highlighting good practices and particularities I was not aware of.
 
-### THREE
+#### underscore/lodash/ramda
 
-### Vue
+[underscore](https://underscorejs.org/)
 
-### Electron
+[lodash]()
+
+#### D3
+
+#### Vue
+
+### Concepts and Good Reads
 
 
 
