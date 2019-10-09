@@ -16,10 +16,21 @@ Picking a project is the best way to start. Since javacsript can be used almost 
 
 [the codeburst map](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) provides a good overview and pathway through the web developer landscape. CSS, HTML, and JS work in close cohort to produce the incredible web effects you witness in the browser. Here are some other avenues that I would suggest for beginners.
 
-### Codeacademy
+### Javascript Resources
 
 [intro-to-js](https://www.codecademy.com/learn/introduction-to-javascript)
 Code academy's free courses is a great place to start. The excercises are short and can be done in the browser. Getting a good lay of the land in the back of your head is great when you start encountering roadblocks.
+
+[Javascript.info](https://javascript.info/intro)
+Massive reference on everything javascript. Gives great detail on topics and dives into use cases with great example code.
+
+[Devdocs.io](https://devdocs.io/)
+Consolidated reference side that covers many different languages. Can offline different modules for quick reference.
+
+### ObservableHQ
+
+[Observablehq.com](https://observablehq.com/)
+Online and easily accessible coding notebook for anything from data viz to running simulations. It's a great place to test bits of code and learning from others. Notebooks can be shared and imported.
 
 ### Single Page HTML
 
@@ -32,11 +43,12 @@ Keeping it simple and going with vanilla JS/HTML/CSS is essential for understand
 
 [guides and docs](https://developers.google.com/apps-script/overview)
 A small bit of apps scripts goes a long way. Gsuite is a powerful toolset. Apps Scripts allows you to extend and connect that toolset with each other and other services. Building office automations and more readable spreadsheet formulas is a breeze. [This quickstart](https://developers.google.com/apps-script/quickstart/custom-functions) is a great starting point.
-NOTE: APPS SCRIPTS IS USING ES2013 (more on this later)
 
 ## where to continue?
 
 ### Tools and Frameworks
+
+Javascript's power is in its stupidly large and complex ecosystem. 
 
 #### Git and Github
 
@@ -77,7 +89,7 @@ What sets Vue apart from React and other front end frameworks is it's flexibilit
 [lodash](https://lodash.com/)
 [ramda](https://ramdajs.com/)
 
-These libraries assist a ton in composing code. You should never need all three, and each has a slightly different style in how they are used. Depending on you needs, you can write the utility functions you need in vanilla javascript, but where's the fun in that? Slapping one of these in and you're off to the races.
+These libraries assist a ton in composing code. You shouldn't need all three. Each has a slightly different style in how they are used. Depending on you needs, you can write the utility functions you need in vanilla javascript, but where's the fun in that? Slapping one of these in and you're off to the races.
 
 #### D3
 
@@ -85,13 +97,23 @@ D3 is a fair bit of black magic I don't understand. It's mostly used as a data v
 
 [d3](https://d3js.org/)
 
+#### Chartjs
+
+Chartjs is a simple and flexible chart library that should meeet most basic graphing needs. 
+
+[chartjs](https://www.chartjs.org/docs/latest/)
+
 #### Three
 
 Click around on the demos and you'll see all the amazing things people have done with threejs. With capabilities for VR/AR and support for a wide array of 3D formats, this library can make your web dreams a digital reality.
 
 [threejs](https://threejs.org/)
 
-### Concepts and Good Reads
+#### Typescript
+
+Typescript compiles to javascript, and incorporates a lot of language features that help you learn more about the software perspective on the world. It enjoys great support in VScode and reduces a lot of cross checking headaches as javascript projects get larger.
+
+[typescript](http://www.typescriptlang.org/)
 
 
 
